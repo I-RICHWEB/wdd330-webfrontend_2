@@ -78,7 +78,7 @@ header {
 }
 /* utility classes */
 .highlight {
-  color: var(--tertiary-color);
+  color: var(--dark-grey);
 }
 
 button {
